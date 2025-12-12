@@ -1,7 +1,7 @@
 # 🏯 Sikkhim
 
-A **Next.js** project showcasing **360° views of monasteries in Sikkhim**.  
-This project is built with modern web technologies to provide an immersive and interactive experience.
+A **Next.js** project showcasing **Monasteries in Sikkim**.  
+This project is built with modern web technologies to provide a research based experience.
 
 ---
 
